@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cparisot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://clement-parisot.ovh
+  * I am cparisot (https://keybase.io/cparisot) on keybase.
+  * I have a public key ASBJwfUuV7pVEJxB1b06PsvSZQckPgeZNDVOWExn2sjfcwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012049c1f52e57ba55109c41d5bd3a3ecbd26507243e079934354e584c67dac8df730a",
+            "host": "keybase.io",
+            "kid": "012049c1f52e57ba55109c41d5bd3a3ecbd26507243e079934354e584c67dac8df730a",
+            "uid": "f26e8bf3237f6aaf55e6b4cc2e3f0319",
+            "username": "cparisot"
+        },
+        "service": {
+            "hostname": "clement-parisot.ovh",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1489066531,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1489066402,
+        "hash": "3ad50073683292239abcd79c4444e4d427b61d30f029ce2d69cd0fe6c6e8cddbb1c8c396b1c65c56715a3c911d44a5b68723f4ec7795d41ac6ffdc09ebd16c8c",
+        "seqno": 948372
+    },
+    "prev": "1fa3321394c2770bf4dfddef7e420200e6cde95ceb1e02e8c887cde98731131f",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgScH1Lle6VRCcQdW9Oj7L0mUHJD4HmTQ1TlhMZ9rI33MKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDljMWY1MmU1N2JhNTUxMDljNDFkNWJkM2EzZWNiZDI2NTA3MjQzZTA3OTkzNDM1NGU1ODRjNjdkYWM4ZGY3MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDljMWY1MmU1N2JhNTUxMDljNDFkNWJkM2EzZWNiZDI2NTA3MjQzZTA3OTkzNDM1NGU1ODRjNjdkYWM4ZGY3MzBhIiwidWlkIjoiZjI2ZThiZjMyMzdmNmFhZjU1ZTZiNGNjMmUzZjAzMTkiLCJ1c2VybmFtZSI6ImNwYXJpc290In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJjbGVtZW50LXBhcmlzb3Qub3ZoIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4OTA2NjUzMSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg5MDY2NDAyLCJoYXNoIjoiM2FkNTAwNzM2ODMyOTIyMzlhYmNkNzljNDQ0NGU0ZDQyN2I2MWQzMGYwMjljZTJkNjljZDBmZTZjNmU4Y2RkYmIxYzhjMzk2YjFjNjVjNTY3MTVhM2M5MTFkNDRhNWI2ODcyM2Y0ZWM3Nzk1ZDQxYWM2ZmZkYzA5ZWJkMTZjOGMiLCJzZXFubyI6OTQ4MzcyfSwicHJldiI6IjFmYTMzMjEzOTRjMjc3MGJmNGRmZGRlZjdlNDIwMjAwZTZjZGU5NWNlYjFlMDJlOGM4ODdjZGU5ODczMTEzMWYiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC98p9gSq8mI9utq7f0U2N61EcrOgVh3YSc+bif9Ixkxjbn0erdDxwz72URCamOsyF4upfcMWvh6v3bKmqSzh8FqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg6EoPxyDEfOosXDw3zOeLDpd5kPcUBhX+WCTr3dl8BjmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cparisot
+
+==================================================================
