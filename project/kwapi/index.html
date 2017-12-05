@@ -11,7 +11,7 @@
   <meta name="description" content="HPC system administrator">
 
   
-  <link rel="alternate" hreflang="en-us" href="">
+  <link rel="alternate" hreflang="en-us" href="http://clement-parisot.github.io/project/kwapi/">
 
   
   
@@ -59,7 +59,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="http://clement-parisot.github.io/project/kwapi/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -67,12 +67,14 @@
   <meta property="twitter:creator" content="@pclems54">
   
   <meta property="og:site_name" content="Clément Parisot">
-  <meta property="og:url" content="">
-  <meta property="og:title" content="404 Page not found | Clément Parisot">
-  <meta property="og:description" content="HPC system administrator">
+  <meta property="og:url" content="http://clement-parisot.github.io/project/kwapi/">
+  <meta property="og:title" content="Kwapi | Clément Parisot">
+  <meta property="og:description" content="">
   <meta property="og:locale" content="en-us">
   
+  <meta property="article:published_time" content="2014-07-01T00:00:00&#43;02:00">
   
+  <meta property="article:modified_time" content="2014-07-01T00:00:00&#43;02:00">
   
 
   
@@ -83,7 +85,7 @@
 <script src="/js/navbar.js"></script>
 
 
-  <title>404 Page not found | Clément Parisot</title>
+  <title>Kwapi | Clément Parisot</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -189,58 +191,193 @@
   </div>
 </nav>
 
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">Kwapi</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Kwapi&amp;url=http%3a%2f%2fclement-parisot.github.io%2fproject%2fkwapi%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fclement-parisot.github.io%2fproject%2fkwapi%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fclement-parisot.github.io%2fproject%2fkwapi%2f&amp;title=Kwapi"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fclement-parisot.github.io%2fproject%2fkwapi%2f&amp;title=Kwapi"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Kwapi&amp;body=http%3a%2f%2fclement-parisot.github.io%2fproject%2fkwapi%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </span>
+    </div>
+
+    
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h1 id="my-contribution">My contribution</h1>
+
+<p>During my intership in Inria Nancy in 2014, I contributed 6 months on this project to add network monitoring to Kwapi.</p>
+
+<p>I adapted the code, make it compliant with Grid&rsquo;5000 environment, packaged it for Debian. Then I created one VM per Grid&rsquo;5000 site, write a Puppet module and deploy it everywhere.</p>
+
+<p>After that, I continue to maintain Kwapi during 2 years, adding some patchs and checking the monitoring on every site.</p>
+
+<p>This is an extract from <a href="https://www.grid5000.fr/mediawiki/index.php/Measurements_tutorial#Measurements_using_Kwapi" target="_blank">Grid&rsquo;5000 website</a> about Kwapi:</p>
+
+<h1 id="measurements-using-kwapi-on-grid-5000">Measurements using Kwapi on Grid&rsquo;5000</h1>
+
+<p>For the classic Ganglia measurements, a user requiring a higher resolution can simply deploy his own measurement probes and sample them at a higher frequency. This is not true for all measurements, in particular for probes outside the control of users such as power consumption probes on power distribution units (PDUs) or some network links. This is why Grid&rsquo;5000 has deployed an adaptation of work on power metering developed by Grid&rsquo;5000 users named Kwapi (<a href="https://launchpad.net/kwapi" target="_blank">reference page</a>, <a href="https://github.com/openstack/kwapi" target="_blank">github page</a>). For the curious, the <a href="https://github.com/lpouillo/kwapi-g5k" target="_blank">reference code</a> and <a href="http://kwapi-g5k.readthedocs.org developer" target="_blank">developer documentation</a> is available. In the context of Grid&rsquo;5000, it should be noted that :</p>
+
+<ul>
+<li>Measurements in Kwapi-g5k are stored in an HDF5 file : no data is lost over time.</li>
+<li>The web interface to display metrics (<a href="https://intranet.grid5000.fr/supervision/rennes/monitoring/energy/last/minute/" target="_blank">example for Rennes</a> is aware of OAR jobs, to allow users to have an experiment-centric view of the collected data.</li>
+<li>Kwapi-g5k comes with a native API to retrieve data. This API is partly compatible with the one developed for Ganglia.[&hellip;] This gives the illusion of a unified Metrology API to most users.</li>
+<li>No user defined measurements can be collected by Kwapi-g5k.</li>
+<li><strong>There is a 5minutes delay (300 collected values) before data are written to the disk and accessible via the Kwapi API</strong>. This delay has been introduced because Kwapi use NFS volumes to store data and frequent writes stress the NFS servers. HDF5 API should be used to retrieve data after an experiment. For more instantaneous results, you should use Kwapi API (port 5000) which expose data in a &ldquo;Ganglia like&rdquo; way.</li>
+</ul>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="btn btn-primary btn-outline" href="/tags/kwapi">kwapi</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/monitoring">monitoring</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/power-consumption">power consumption</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/network-bandwidth">network bandwidth</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/grid5000">grid5000</a>
+  
+</div>
+
+
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Florentin Clouet, Simon Delamare, Jean-Patrick Gelas, Laurent Lefèvre, Lucas Nussbaum, Clément Parisot, Laurent Pouilloux, François Rossigneux</span>.
+  <a href="http://clement-parisot.github.io/publication/kwapi/" itemprop="name">A unified monitoring framework for energy consumption and network traffic</a>.
+  In <strong>TRIDENTCOM</strong>,&nbsp;2015.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://hal.inria.fr/hal-01167915/document" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://hal.inria.fr/hal-01167915/document" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/grid5000/kwapi-g5k" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/kwapi/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
 <div class="container">
+  <nav>
+  <ul class="pager">
+    
 
-  <h1>Page not found</h1>
-  <p>Perhaps you were looking for one of these?</p>
-
-  
-  
-
-  
-  
-  <h2>Publications</h2>
-  
-  <ul>
-    <li><a href="http://clement-parisot.github.io/publication/kwapi/">A unified monitoring framework for energy consumption and network traffic</a></li>
+    
+    <li class="next"><a href="http://clement-parisot.github.io/project/validmaker/">ValidMaker <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
   </ul>
-  
-  <ul>
-    <li><a href="http://clement-parisot.github.io/publication/generic-network-configuration/">A data model for management of network device configuration heterogeneity</a></li>
-  </ul>
-  
-  
-
-  
-  
-
-  
-  
-  <h2>Projects</h2>
-  
-  <ul>
-    <li><a href="http://clement-parisot.github.io/project/lmab/">(Lorraine) Mondial Air Ballons</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="http://clement-parisot.github.io/project/1snail2trains/">1 Snail 2 Trains</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="http://clement-parisot.github.io/project/grid5000/">Grid&#39;5000</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="http://clement-parisot.github.io/project/validmaker/">ValidMaker</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="http://clement-parisot.github.io/project/kwapi/">Kwapi</a></li>
-  </ul>
-  
-  
+</nav>
 
 </div>
+
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">

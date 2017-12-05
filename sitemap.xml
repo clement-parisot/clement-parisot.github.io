@@ -1,14 +1,341 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>http://clement-parisot.github.io/</loc>
-    <lastmod>2016-10-24T23:09:52+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/3dprinting/</loc>
+      <lastmod>2017-12-05T01:36:39+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>http://clement-parisot.github.io/post/post-title/</loc>
-    <lastmod>2016-10-24T23:09:52+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/esialrobotik/</loc>
+      <lastmod>2017-12-05T01:34:31+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/lmab/</loc>
+      <lastmod>2017-12-05T01:32:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/1snail2trains/</loc>
+      <lastmod>2017-12-05T01:24:32+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/grid5000/</loc>
+      <lastmod>2017-12-05T01:21:29+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/validmaker/</loc>
+      <lastmod>2017-12-05T01:09:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/publication/kwapi/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/publication/generic-network-configuration/</loc>
+      <lastmod>2015-05-11T00:04:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/kwapi/</loc>
+      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/publication_types/1/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/android/</loc>
+      <lastmod>2017-12-05T01:24:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/</loc>
+      <lastmod>2017-12-05T01:48:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/configuration-management/</loc>
+      <lastmod>2015-05-11T00:04:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/data-models/</loc>
+      <lastmod>2015-05-11T00:04:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/energy/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/game/</loc>
+      <lastmod>2017-12-05T01:24:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/grid5000/</loc>
+      <lastmod>2017-12-05T01:21:29+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/hdf5/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/kwapi/</loc>
+      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/libgdx/</loc>
+      <lastmod>2017-12-05T01:24:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/monitoring/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/network/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/network-bandwidth/</loc>
+      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/network-configuration/</loc>
+      <lastmod>2015-05-11T00:04:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/ontologies/</loc>
+      <lastmod>2015-05-11T00:04:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/openstack/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/power-consumption/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/project/</loc>
+      <lastmod>2017-12-05T01:36:39+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/publication_types/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/rrd/</loc>
+      <lastmod>2015-06-24T23:35:52+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://clement-parisot.github.io/tags/</loc>
+      <lastmod>2017-12-05T01:24:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
