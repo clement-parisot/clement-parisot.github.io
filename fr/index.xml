@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clément Parisot on Clément Parisot</title>
+    <link>http://www.clement-parisot.ovh/fr/</link>
+    <description>Recent content in Clément Parisot on Clément Parisot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2017 Tous droits réservés</copyright>
+    <lastBuildDate>Tue, 05 Dec 2017 01:48:35 +0100</lastBuildDate>
+    <atom:link href="/fr/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Impressions 3D</title>
+      <link>http://www.clement-parisot.ovh/fr/project/3dprinting/</link>
+      <pubDate>Sat, 09 Dec 2017 01:36:39 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/project/3dprinting/</guid>
+      <description>&lt;p&gt;Il y aura sans doute une gallerie avec mon travail ici un jour ;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1 Escargot 2 Trains</title>
+      <link>http://www.clement-parisot.ovh/fr/project/1snail2trains/</link>
+      <pubDate>Sat, 09 Dec 2017 01:24:32 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/project/1snail2trains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid&#39;5000</title>
+      <link>http://www.clement-parisot.ovh/fr/project/grid5000/</link>
+      <pubDate>Sat, 09 Dec 2017 01:21:29 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/project/grid5000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esial Robotik</title>
+      <link>http://www.clement-parisot.ovh/fr/project/esialrobotik/</link>
+      <pubDate>Tue, 05 Dec 2017 01:34:31 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/project/esialrobotik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Lorraine) Mondial Air Ballons</title>
+      <link>http://www.clement-parisot.ovh/fr/project/lmab/</link>
+      <pubDate>Tue, 05 Dec 2017 01:32:00 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/project/lmab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ValidMaker</title>
+      <link>http://www.clement-parisot.ovh/fr/project/validmaker/</link>
+      <pubDate>Tue, 05 Dec 2017 01:09:07 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/project/validmaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified monitoring framework for energy consumption and network traffic</title>
+      <link>http://www.clement-parisot.ovh/fr/publication/kwapi/</link>
+      <pubDate>Wed, 24 Jun 2015 23:35:52 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/publication/kwapi/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai contribué 6 mois sur ce projet et j&amp;rsquo;ai ajouté une fonction de monitoring réseau à Kwapi.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A data model for management of network device configuration heterogeneity</title>
+      <link>http://www.clement-parisot.ovh/fr/publication/generic-network-configuration/</link>
+      <pubDate>Mon, 11 May 2015 00:04:07 +0100</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/publication/generic-network-configuration/</guid>
+      <description>&lt;p&gt;Projet d&amp;rsquo;un an en partenariat avec Ericsson.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kwapi</title>
+      <link>http://www.clement-parisot.ovh/fr/project/kwapi/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.clement-parisot.ovh/fr/project/kwapi/</guid>
+      <description>
+
+&lt;h1 id=&#34;ma-contribution&#34;&gt;Ma contribution&lt;/h1&gt;
+
+&lt;p&gt;Durant mon stage à l&amp;rsquo;Inria Nancy en 2014, j&amp;rsquo;ai contribué durant 6 mois à ce projet afin d&amp;rsquo;ajouter un monioring réseau à Kwapi.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai adapté le code, l&amp;rsquo;ai rendu compatible avec l&amp;rsquo;API de Grid&amp;rsquo;5000, l&amp;rsquo;ai packagé pour Debian. J&amp;rsquo;ai ensuite créé une VM par site Grid&amp;rsquo;5000, écrit un module Puppet afin de le déployer partout?&lt;/p&gt;
+
+&lt;p&gt;Après cela, j&amp;rsquo;ai continué à maintenir Kwapi durant 2 ans, ajoutant quelques patchs et vérifiant la fonction de monitoring de chaque site.&lt;/p&gt;
+
+&lt;p&gt;Voici un extrait du &lt;a href=&#34;https://www.grid5000.fr/mediawiki/index.php/Measurements_tutorial#Measurements_using_Kwapi&#34; target=&#34;_blank&#34;&gt;site web Grid&amp;rsquo;5000&lt;/a&gt; à propos de Kwapi:&lt;/p&gt;
+
+&lt;h1 id=&#34;prendre-des-mesures-en-utilisant-kwapi-sur-grid-5000&#34;&gt;Prendre des mesures en utilisant Kwapi sur Grid&amp;rsquo;5000&lt;/h1&gt;
+
+&lt;p&gt;Pour les mesures classiques avec Ganglia, un utilisateur désirant une plus grande résolution peut simplement déployer ses propres sondes de mesure et les configurer avec un échantillonage de plus haut. Ce n&amp;rsquo;est cependant pas possible avec toutes les mesures, en particulier pour les sondes en dehors du contrôle des utilisateurs comme les sondes de consommation d&amp;rsquo;énergie des unités de distribution d&amp;rsquo;alimentation électriques (PDUs) ou de certains liens réseaux. C&amp;rsquo;est pourquoi Grid&amp;rsquo;5000 a déployé un adaptation de son monitoring électrique conçu initialement par des utilisateurs nommé Kwapi (&lt;a href=&#34;https://launchpad.net/kwapi&#34; target=&#34;_blank&#34;&gt;page de référence&lt;/a&gt;, &lt;a href=&#34;https://github.com/openstack/kwapi&#34; target=&#34;_blank&#34;&gt;page github&lt;/a&gt;) Pour les curieux, le &lt;a href=&#34;https://github.com/lpouillo/kwapi-g5k&#34; target=&#34;_blank&#34;&gt;code de référence&lt;/a&gt; et &lt;a href=&#34;http://kwapi-g5k.readthedocs.org developer&#34; target=&#34;_blank&#34;&gt;la documentation developpeur&lt;/a&gt; est disponible. Dans le contexte de Grid&amp;rsquo;5000, veuillez remarquer que :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les mesures de Kwapi sont stockées dans un fichier HDF5: aucune donnée n&amp;rsquo;est perdue au fil du temps&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;interface web qui affiche les mesures ((&lt;a href=&#34;https://intranet.grid5000.fr/supervision/rennes/monitoring/energy/last/minute/&#34; target=&#34;_blank&#34;&gt;par exemple à Rennes&lt;/a&gt;) a connaissance des job OAR afin de permettre aux utilisateurs d&amp;rsquo;avoir une vue de leurs données collectés au cours d&amp;rsquo;une expérience.&lt;/li&gt;
+&lt;li&gt;Kwapi-g5k a sa propre API native pour récupérer les données. Cette API est partiellement compatible avec celle développée pour Ganglia. [&amp;hellip;] Ceci donne l&amp;rsquo;illusion d&amp;rsquo;un API Metrologie unifiée pour la plupart des utilisateurs.&lt;/li&gt;
+&lt;li&gt;Aucune metrique définie par les utilisateurs ne peut être collectée à travers Kwapi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Il existe un délai de 5 minutes (300 secondes) avant que les données ne soient écrites sur le disque et accessibles à travers Kwapi&lt;/strong&gt;. Ce délai a été mis en place car Kwapi utilise des volumes NFS pour stocker ses données et les écritures trop fréquentes stressent les serveurs. l&amp;rsquo;API HDF5 doit être utilisée pour récupérer les données après les expériences. Veuillez utiliser l&amp;rsquo;API native de Kwapi (port 5000) pour récuperer des données en cours d&amp;rsquo;expérience comme vous le feriez avec Ganglia.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

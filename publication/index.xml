@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Clément Parisot</title>
-    <link>http://clement-parisot.github.io/publication/</link>
+    <link>http://www.clement-parisot.ovh/publication/</link>
     <description>Recent content in Publications on Clément Parisot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>A unified monitoring framework for energy consumption and network traffic</title>
-      <link>http://clement-parisot.github.io/publication/kwapi/</link>
+      <link>http://www.clement-parisot.ovh/publication/kwapi/</link>
       <pubDate>Wed, 24 Jun 2015 23:35:52 +0100</pubDate>
       
-      <guid>http://clement-parisot.github.io/publication/kwapi/</guid>
+      <guid>http://www.clement-parisot.ovh/publication/kwapi/</guid>
       <description>&lt;p&gt;I contributed 6 months on this project to add network monitoring to Kwapi.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A data model for management of network device configuration heterogeneity</title>
-      <link>http://clement-parisot.github.io/publication/generic-network-configuration/</link>
+      <link>http://www.clement-parisot.ovh/publication/generic-network-configuration/</link>
       <pubDate>Mon, 11 May 2015 00:04:07 +0100</pubDate>
       
-      <guid>http://clement-parisot.github.io/publication/generic-network-configuration/</guid>
+      <guid>http://www.clement-parisot.ovh/publication/generic-network-configuration/</guid>
       <description></description>
     </item>
     
