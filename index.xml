@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clément Parisot on Clément Parisot</title>
-    <link>http://www.clement-parisot.ovh/</link>
+    <link>https://www.clement-parisot.ovh/</link>
     <description>Recent content in Clément Parisot on Clément Parisot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tous droits réservés</copyright>
-    <lastBuildDate>Tue, 05 Dec 2017 01:48:35 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2020 Tous droits réservés</copyright>
+    <lastBuildDate>Fri, 06 Nov 2020 12:54:35 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3D printing</title>
-      <link>http://www.clement-parisot.ovh/project/3dprinting/</link>
+      <link>https://www.clement-parisot.ovh/project/3dprinting/</link>
       <pubDate>Tue, 05 Dec 2017 01:36:39 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/project/3dprinting/</guid>
+      <guid>https://www.clement-parisot.ovh/project/3dprinting/</guid>
       <description>&lt;p&gt;There will probably be a gallery there someday ;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Esial Robotik</title>
-      <link>http://www.clement-parisot.ovh/project/esialrobotik/</link>
+      <link>https://www.clement-parisot.ovh/project/esialrobotik/</link>
       <pubDate>Tue, 05 Dec 2017 01:34:31 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/project/esialrobotik/</guid>
+      <guid>https://www.clement-parisot.ovh/project/esialrobotik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Lorraine) Mondial Air Ballons</title>
-      <link>http://www.clement-parisot.ovh/project/lmab/</link>
+      <link>https://www.clement-parisot.ovh/project/lmab/</link>
       <pubDate>Tue, 05 Dec 2017 01:32:00 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/project/lmab/</guid>
+      <guid>https://www.clement-parisot.ovh/project/lmab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 Snail 2 Trains</title>
-      <link>http://www.clement-parisot.ovh/project/1snail2trains/</link>
+      <link>https://www.clement-parisot.ovh/project/1snail2trains/</link>
       <pubDate>Tue, 05 Dec 2017 01:24:32 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/project/1snail2trains/</guid>
+      <guid>https://www.clement-parisot.ovh/project/1snail2trains/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid&#39;5000</title>
-      <link>http://www.clement-parisot.ovh/project/grid5000/</link>
+      <link>https://www.clement-parisot.ovh/project/grid5000/</link>
       <pubDate>Tue, 05 Dec 2017 01:21:29 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/project/grid5000/</guid>
+      <guid>https://www.clement-parisot.ovh/project/grid5000/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ValidMaker</title>
-      <link>http://www.clement-parisot.ovh/project/validmaker/</link>
+      <link>https://www.clement-parisot.ovh/project/validmaker/</link>
       <pubDate>Tue, 05 Dec 2017 01:09:07 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/project/validmaker/</guid>
+      <guid>https://www.clement-parisot.ovh/project/validmaker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A unified monitoring framework for energy consumption and network traffic</title>
-      <link>http://www.clement-parisot.ovh/publication/kwapi/</link>
+      <link>https://www.clement-parisot.ovh/publication/kwapi/</link>
       <pubDate>Wed, 24 Jun 2015 23:35:52 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/publication/kwapi/</guid>
+      <guid>https://www.clement-parisot.ovh/publication/kwapi/</guid>
       <description>&lt;p&gt;I contributed 6 months on this project to add network monitoring to Kwapi.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A data model for management of network device configuration heterogeneity</title>
-      <link>http://www.clement-parisot.ovh/publication/generic-network-configuration/</link>
+      <link>https://www.clement-parisot.ovh/publication/generic-network-configuration/</link>
       <pubDate>Mon, 11 May 2015 00:04:07 +0100</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/publication/generic-network-configuration/</guid>
+      <guid>https://www.clement-parisot.ovh/publication/generic-network-configuration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kwapi</title>
-      <link>http://www.clement-parisot.ovh/project/kwapi/</link>
+      <link>https://www.clement-parisot.ovh/project/kwapi/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
-      <guid>http://www.clement-parisot.ovh/project/kwapi/</guid>
+      <guid>https://www.clement-parisot.ovh/project/kwapi/</guid>
       <description>
 
 &lt;h1 id=&#34;my-contribution&#34;&gt;My contribution&lt;/h1&gt;
